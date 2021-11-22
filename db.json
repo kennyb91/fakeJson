@@ -2,7 +2,13 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "city": "Budapest",
+      "country": "Hungary"
+    }
+    {
+    "id": 2,
+    "city": "London",
+    "country": "UK"
     }
   ],
   "profile": {
