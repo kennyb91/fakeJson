@@ -3,12 +3,14 @@
     {
       "id": 1,
       "city": "Budapest",
-      "country": "Hungary"
+      "country": "Hungary",
+      "travelCost": 150000
     },
     {
     "id": 2,
     "city": "London",
-    "country": "UK"
+    "country": "UK",
+    "travelCost": 450000
     }
   ],
   "profile": {
