@@ -11,6 +11,12 @@
     "city": "London",
     "country": "UK",
     "travelCost": 450000
+    },
+    
+    "id": 3,
+    "city": "Rome",
+    "country": "Italy",
+    "travelCost": 395000
     }
   ],
   "profile": {
